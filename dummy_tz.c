@@ -1,11 +1,5 @@
 /*
  * dummy_tz.c Simple usage of kernel thermal zone API
- *
- * The parts we access in the PCI config space for 00:0.0 is undocumented.
- * This driver just mimics a bash script written by CompuLab.
- *
- * Copyright (c) 2010, Patrik Jakobsson <patrik.jakobsson@home.se>
- *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms and conditions of the GNU General Public License,
  * version 2, as published by the Free Software Foundation.
